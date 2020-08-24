@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/org.eclipse.acme.feature_1.0.4.jar" id="org.eclipse.acme.feature" version="1.0.4" os="linux,macosx,win32">
-      <category name="org.eclipse.acme"/>
+   <feature url="features/org.eclipse.acme.feature_1.0.0.202008240844.jar" id="org.eclipse.acme.feature" version="1.0.0.202008240844" os="linux,macosx,win32">
+      <category name="ACME"/>
    </feature>
-   <category-def name="org.eclipse.acme" label="ACME"/>
+   <category-def name="ACME" label="Assurance Case Management Environment"/>
 </site>
